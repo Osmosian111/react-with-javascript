@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 150px;
+  color: white;
+}
+
+button {
+  border-radius: 50px;
+  padding: 1rem 1.5rem;
+  margin: 1rem;
+  color: white;
+  background-color: rgb(14, 14, 14);
+}
